@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://yc-pro-oss.oss-cn-hangzhou.aliyuncs.com/web/51.ipa?Expires=1542370238&amp;OSSAccessKeyId=TMP.AQGbV_lsApmgWnVP5u_lGHEGV5c_sgSYPMEtVdXrdWPOm7fsSyUoz-LReL2tAAAwLAIUZhUwoUz8aqUr8mA-OKFDyjus9p4CFH-PSjjR4Xdy-xaQnZDwdSgT1zlP&amp;Signature=Sy8okgjSDXhhPS2Yo3b2TmvvV04%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://yc-pro-oss.oss-cn-hangzhou.aliyuncs.com/web/57x57.png?Expires=1542365297&amp;OSSAccessKeyId=TMP.AQGbV_lsApmgWnVP5u_lGHEGV5c_sgSYPMEtVdXrdWPOm7fsSyUoz-LReL2tAAAwLAIUZhUwoUz8aqUr8mA-OKFDyjus9p4CFH-PSjjR4Xdy-xaQnZDwdSgT1zlP&amp;Signature=jT3E4KoulLqBZcFiinwI2%2BFdz3E%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://yc-pro-oss.oss-cn-hangzhou.aliyuncs.com/web/57x57.png?Expires=1542365297&amp;OSSAccessKeyId=TMP.AQGbV_lsApmgWnVP5u_lGHEGV5c_sgSYPMEtVdXrdWPOm7fsSyUoz-LReL2tAAAwLAIUZhUwoUz8aqUr8mA-OKFDyjus9p4CFH-PSjjR4Xdy-xaQnZDwdSgT1zlP&amp;Signature=jT3E4KoulLqBZcFiinwI2%2BFdz3E%3D</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zhuoyue.zhizu</string>
+				<key>bundle-version</key>
+				<string>1.2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>App</string>
+				<key>title</key>
+				<string>51直租</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
